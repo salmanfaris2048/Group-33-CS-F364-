@@ -1,2 +1,2 @@
-# Group-33-CS-F364-
+# Group-33 CS F364
 Design and Analysis of Algorithms
